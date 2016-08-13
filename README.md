@@ -11,12 +11,23 @@ i simulated all possible pairings and compared the outcomes vs the week-by-week 
 the prediction of the above notebook is:
 
 on simulation number:55566
+
 Prosper projected to be with Emma
+
 Tyler projected to be with Camille
+
 Cameron projected to be with Julia
+
 Steven projected to be with Nicole
+
 Asaf projected to be with Kaelyn
+
 John projected to be with Victoria
+
 Sam projected to be with Alyssa
+
 Morgan projected to be with Tori
+
 Gio projected to be with Francesca
+
+
