@@ -6,11 +6,15 @@ click on areyouthedata.ipynb above fore a jupyter notebook analysis and predicti
 
 spoiler alert!
 
-i simulated all possible pairings and compared the outcomes vs the week-by-week data
+the season finale for "Are You The One" is on Monday, August 15th, and the "scientifically determined pairings" of the 10 guys and 10 girls have not been exposed to participants
+
+i simulated all possible pairings and compared the outcomes vs the week-by-week data to make predictions of which contestant pairings!
+
+it look the program 55566 simulations to form these predictions
 
 the prediction of the above notebook is:
 
-on simulation number:55566
+
 
 Prosper projected to be with Emma
 
